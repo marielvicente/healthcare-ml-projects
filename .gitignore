@@ -1,0 +1,5 @@
+data/
+*.keras
+.ipynb_checkpoints/
+.Rhistory
+.RData
